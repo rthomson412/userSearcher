@@ -360,12 +360,12 @@
   
     .profile-bottom-wrapper {
       flex-wrap: wrap;
-      flex-direction: row;
+      flex-direction: column;
     }
   
     .profile-info {
-      width: 47.5%;
-      font-size: 15px;
+      display: inline-block;
+      font-size: 20px;
     }
   }
   
